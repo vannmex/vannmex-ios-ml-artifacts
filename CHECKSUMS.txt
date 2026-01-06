@@ -1,0 +1,7 @@
+# SHA-256 Checksums for v1.0.0
+
+83c79fd87e22b127d09a9e3b32fa09fe117a3cb6a8420f0f3a804ed7fccc3960  bge-small-en-v1.5-int8.zip
+37dd16e26b1f7bb96696f27b0949d345672f7b6bc53b3ede5bd4e5836632c441  onnxruntime-ios-1.22.0.xcframework.zip
+5511fb67e389901f467ff879d0460a48d13768a7f759864629a717cd2129ff94  sqlite-vec-ios-0.1.6.zip
+
+# Verify with: shasum -a 256 -c CHECKSUMS.txt

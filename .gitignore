@@ -1,0 +1,5 @@
+# Don't track zip files in git (use releases instead)
+*.zip
+
+# OS files
+.DS_Store
